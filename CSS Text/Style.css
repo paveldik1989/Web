@@ -1,0 +1,40 @@
+.content {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #FEEED6;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    color: #676565;
+}
+
+.content h1 {
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+.content p {
+    font-size: 17px;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+.courseProperties {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 19px;
+}
+
+.courseDescription :last-child {
+    margin-top: 17px;
+}
+
+span.caption {
+    font-weight: bold;
+    color: #378DB2
+}
+
+span.strikeout {
+    text-decoration: line-through
+}

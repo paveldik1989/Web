@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/page_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/page_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/style.css" afterDir="false" />
+    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="Html task has been added.">
+      <change afterPath="$PROJECT_DIR$/CSS Text/CSS Text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Text/Normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS Text/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web/Html1",
+    "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
@@ -58,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668107874536</updated>
-      <workItem from="1668107898926" duration="18544000" />
+      <workItem from="1668107898926" duration="37041000" />
     </task>
+    <task id="LOCAL-00001" summary="Html task has been added.">
+      <created>1669746652084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669746652084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Html task has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Html task has been added." />
   </component>
 </project>
