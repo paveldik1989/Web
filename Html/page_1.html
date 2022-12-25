@@ -6,36 +6,52 @@
 </head>
 <body>
 <form action="" method="post">
-    <label for="clientName">Ваше имя:</label>
-    <input type="text" id="clientName" name="clientName">
+    <label>Ваше имя:
+        <input type="text" name="clientName">
+    </label>
     <br>
+
     Ваш пол:
-    <label for="male">Мужской</label>
-    <input type="radio" id="male" checked="checked" value="male" name="gender">
-    <label for="female">Женский</label>
-    <input type="radio" id="female" value="female" name="gender">
+    <label>
+        <input type="radio" checked="checked" value="male" name="gender">
+        Мужской
+    </label>
+    <label>
+        <input type="radio" value="female" name="gender">
+        Женский
+    </label>
     <br>
-    <label for="city">Выберите свой город</label>
-    <select id="city" name="city">
-        <option value="nsk" name="city">Новосибирск</option>
-        <option value="msk" name="city">Москва</option>
-        <option value="spb" name="city">Санкт-Петербург</option>
-    </select>
+
+    <label>Выберите свой город:
+        <select name="city">
+            <option value="nsk" name="city">Новосибирск</option>
+            <option value="msk" name="city">Москва</option>
+            <option value="spb" name="city">Санкт-Петербург</option>
+        </select>
+    </label>
     <br>
-    <label for="pet">Выберите домашних животных</label>
-    <select id="pet" name="pet" multiple>
-        <option value="cat" name="city">Кошка</option>
-        <option value="dog" name="city">Собака</option>
-        <option value="parrot" name="city">Попугай</option>
-    </select>
+
+    <label>Выберите домашних животных:
+        <select name="pet" multiple>
+            <option value="cat" name="city">Кошка</option>
+            <option value="dog" name="city">Собака</option>
+            <option value="parrot" name="city">Попугай</option>
+        </select>
+    </label>
     <br>
-    <label for="comment">Оставьте комментарий:</label>
+
+    <label>Оставьте комментарий:
+        <br>
+        <textarea name="comment"></textarea>
+    </label>
     <br>
-    <textarea id="comment" name="comment"></textarea>
+
+    <label>
+        <input type="checkbox" name="consent">
+        Даю согласие на обработку своих персональных данных.
+    </label>
     <br>
-    <label for="consent">Даю согласие на обработку своих персональных данных</label>
-    <input type="checkbox" id="consent" name="consent">
-    <br>
+
     <button type="submit">Отправить заявку</button>
 </form>
 <a href="page_2.html">Таблица результатов опроса</a>
