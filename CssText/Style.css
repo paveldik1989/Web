@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.content {
+    max-width: 850px;
+    padding: 7px 10px 0 10px;
+    background-color: #FEEED6;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    color: #676565;
+    margin: 0 auto 5px;
+}
+
+.content h1 {
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 1.1;
+    margin-bottom: 14px;
+    margin-top: 0;
+}
+
+.course_properties {
+    margin-top: 11px;
+    margin-bottom: 11px;
+    font-size: 19px;
+}
+
+.course_description :last-child {
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+
+span.caption {
+    font-weight: bold;
+    color: #378DB2
+}
+
+span.strikeout {
+    text-decoration: line-through
+}
+
+.paragraphs p{
+    font-size: 17.5px;
+    text-indent: 20px;
+    text-align: justify;
+    line-height: 1.35;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.paragraphs :first-child{
+    margin-top: 10px;
+    margin-bottom: 0;
+}

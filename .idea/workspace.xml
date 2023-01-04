@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="CSS Text task has been added.">
-      <change afterPath="$PROJECT_DIR$/CSS Table/CSS Table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS Table/Normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS Table/Style.css" afterDir="false" />
+    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="Html task has been changed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/page_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/page_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/page_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/page_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS Text/CSS Text.html" beforeDir="false" afterPath="$PROJECT_DIR$/CssText/CssText.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS Text/Normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/CssText/Normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS Text/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CssText/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,9 @@
       <option name="presentableId" value="Default" />
       <updated>1668107874536</updated>
       <workItem from="1668107898926" duration="46261000" />
-      <workItem from="1671991024475" duration="3887000" />
+      <workItem from="1671991024475" duration="17180000" />
+      <workItem from="1672824862984" duration="494000" />
+      <workItem from="1672828785624" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="Html task has been added.">
       <created>1669746652084</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670142833617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Html task has been changed.">
+      <created>1671995905237</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671995905237</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Html task has been added." />
     <MESSAGE value="CSS Text task has been added." />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Text task has been added." />
+    <MESSAGE value="Html task has been changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Html task has been changed." />
   </component>
 </project>
