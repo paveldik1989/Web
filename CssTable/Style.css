@@ -1,7 +1,11 @@
-.content {
-    max-width: 850px;
-    margin: 0 auto;
+* {
     box-sizing: border-box;
+}
+
+.content {
+    max-width: 859px;
+    margin: 0 auto;
+
     font-family: Helvetica Neue, Arial, sans-serif;
 }
 
@@ -15,39 +19,41 @@ table, th, td {
 }
 
 th {
-    width: 25%;
     background-color: #3498DB;
     color: #FFFFFF;
     font-weight: normal;
-    font-size: 24px;
-    height: 50px;
+    font-size: 20px;
+    height: 52px;
     padding-left: 10px;
     text-align: left;
 }
 
 td {
-    height: 50px;
     font-size: 20px;
     padding-left: 10px;
 }
 
 
-tbody > :nth-child(even) {
+tbody > :nth-child(odd) {
     background-color: #EEEEEE;
+    height: 51px;
 }
 
-.firstName {
-    width: 21%;
+tbody > :nth-child(even) {
+    height: 52px;
+}
+.first_name {
+    width: 20.3%;
 }
 
-.lastName {
-    width: 20%;
+.last_name {
+    width: 20.3%;
 }
 
-.jobTitle {
-    width: 36%;
+.job_title {
+    width: 36.1%;
 }
 
 .twitter {
-    width: 23%;
+    width: 23.3%;
 }
