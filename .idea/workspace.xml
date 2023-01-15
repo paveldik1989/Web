@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="CSS text task has been revised.">
+      <change afterPath="$PROJECT_DIR$/CssForm/CssForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssForm/Normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssForm/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS Table/CSS Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/CssTable/CssTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS Table/Normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/CssTable/Normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS Table/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CssTable/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -32,19 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dad1/IdeaProjects/Web&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web/CssForm",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dad1\IdeaProjects\Web\CssForm" />
       <recent name="C:\Users\dad1\IdeaProjects\Web" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\Html1" />
     </key>
@@ -60,7 +61,7 @@
       <workItem from="1668107898926" duration="46261000" />
       <workItem from="1671991024475" duration="17180000" />
       <workItem from="1672824862984" duration="494000" />
-      <workItem from="1672828785624" duration="7965000" />
+      <workItem from="1672828785624" duration="33442000" />
     </task>
     <task id="LOCAL-00001" summary="Html task has been added.">
       <created>1669746652084</created>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672829083863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CSS text task has been revised.">
+      <created>1673085550021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673085550021</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
