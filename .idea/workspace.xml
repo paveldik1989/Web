@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="CSS text task has been revised.">
-      <change afterPath="$PROJECT_DIR$/CssForm/CssForm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CssForm/Normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CssForm/Style.css" afterDir="false" />
+    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="CSS Form task has been added.">
+      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +48,11 @@
       <recent name="C:\Users\dad1\IdeaProjects\Web\Html1" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Arrays.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="Arrays.js" working-dir="$PROJECT_DIR$/Arrays">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +64,7 @@
       <workItem from="1668107898926" duration="46261000" />
       <workItem from="1671991024475" duration="17180000" />
       <workItem from="1672824862984" duration="494000" />
-      <workItem from="1672828785624" duration="33442000" />
+      <workItem from="1672828785624" duration="46473000" />
     </task>
     <task id="LOCAL-00001" summary="Html task has been added.">
       <created>1669746652084</created>
@@ -98,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673085550021</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CSS Form task has been added.">
+      <created>1673774774481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673774774481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +130,7 @@
     <MESSAGE value="CSS Text task has been added." />
     <MESSAGE value="Html task has been changed." />
     <MESSAGE value="CSS text task has been revised." />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS text task has been revised." />
+    <MESSAGE value="CSS Form task has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Form task has been added." />
   </component>
 </project>
