@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="CSS Form task has been added.">
-      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.js" afterDir="false" />
+    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="Work with arrays task has been added.">
+      <change afterPath="$PROJECT_DIR$/Objects/Objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +38,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web/CssForm",
+    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web/Objects",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dad1\IdeaProjects\Web\Objects" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\CssForm" />
       <recent name="C:\Users\dad1\IdeaProjects\Web" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\Html1" />
@@ -64,7 +67,7 @@
       <workItem from="1668107898926" duration="46261000" />
       <workItem from="1671991024475" duration="17180000" />
       <workItem from="1672824862984" duration="494000" />
-      <workItem from="1672828785624" duration="46473000" />
+      <workItem from="1672828785624" duration="56484000" />
     </task>
     <task id="LOCAL-00001" summary="Html task has been added.">
       <created>1669746652084</created>
@@ -108,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673774774481</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Work with arrays task has been added.">
+      <created>1674153033321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674153033321</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Work with arrays task has been added.">
+      <created>1674153080232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674153080232</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +148,7 @@
     <MESSAGE value="Html task has been changed." />
     <MESSAGE value="CSS text task has been revised." />
     <MESSAGE value="CSS Form task has been added." />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Form task has been added." />
+    <MESSAGE value="Work with arrays task has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Work with arrays task has been added." />
   </component>
 </project>
