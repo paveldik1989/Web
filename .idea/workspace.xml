@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="Work with objects task has been added.">
-      <change afterPath="$PROJECT_DIR$/ToDoList/ToDoList.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoList/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoList/style.css" afterDir="false" />
+    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="To do list task has been added.">
+      <change afterPath="$PROJECT_DIR$/TemperatureConverter/Normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemperatureConverter/converter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemperatureConverter/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemperatureConverter/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +40,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web/Objects",
+    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dad1\IdeaProjects\Web" />
+      <recent name="C:\Users\dad1\IdeaProjects\Web\ToDoList" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\Objects" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\CssForm" />
-      <recent name="C:\Users\dad1\IdeaProjects\Web" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\Html1" />
     </key>
   </component>
@@ -68,7 +70,7 @@
       <workItem from="1668107898926" duration="46261000" />
       <workItem from="1671991024475" duration="17180000" />
       <workItem from="1672824862984" duration="494000" />
-      <workItem from="1672828785624" duration="73182000" />
+      <workItem from="1672828785624" duration="92192000" />
     </task>
     <task id="LOCAL-00001" summary="Html task has been added.">
       <created>1669746652084</created>
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674414777534</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="To do list task has been added.">
+      <created>1674541382421</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674541382421</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +167,7 @@
     <MESSAGE value="CSS Form task has been added." />
     <MESSAGE value="Work with arrays task has been added." />
     <MESSAGE value="Work with objects task has been added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Work with objects task has been added." />
+    <MESSAGE value="To do list task has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="To do list task has been added." />
   </component>
 </project>

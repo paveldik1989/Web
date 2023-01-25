@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Конвертер температур</title>
+    <script defer src="script.js"></script>
+    <link href="Normalize.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div class="main">
+    <h1 class="caption">Конвертер температур</h1>
+    <form id="form" class="form">
+        <div class="row">
+            <label for="celsius" class="label">
+                Градусы Цельсия:
+            </label>
+            <input id="celsius" type="text" class="input">
+            <div class="error-message">Необходимо ввести число</div>
+        </div>
+
+        <div class="row">
+            <button id="convert-button" type="submit" class="button">Конвертировать</button>
+        </div>
+        
+        <div class="row">
+            <label for="fahrenheit" class="label">
+                Градусы Фарентгейта:
+            </label>
+            <input id="fahrenheit" type="text" class="input" readonly>
+        </div>
+
+        <div class="row">
+            <label for="kelvin" class="label">
+                Градусы Кельвина:
+            </label>
+            <input id="kelvin" type="text" class="input" readonly>
+        </div>
+    </form>
+</div>
+</body>
+</html>
