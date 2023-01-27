@@ -18,10 +18,14 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         function setEditMode() {
-            toDoItem.innerHTML = "<div><input class='edit-todo-item' type='text'>\
-                <button class='save-button' type='button'>Save</button>\
-                <button class='cancel-button' type='button'>Cancel</button>\
-                <div class=\"error-message\">Field is required</div></div>";
+            toDoItem.innerHTML = "<div class='row'>\
+                                    <div class='block-column'><div class='text'>  <input class='edit-todo-item' type='text'> \
+                                     <div class='error-message'>Field is required</div></div></div>\
+                                     <div class='block-column'><div class='buttons'>\
+                                        <button class='save-button' type='button'>Save</button>\
+                                       <button class='cancel-button' type='button'>Cancel</button>\
+                                    </div></div>\
+                                 </div>";
 
             toDoItem.querySelector(".edit-todo-item").value = newTodoText;
             toDoItem.querySelector(".cancel-button").addEventListener("click", function () {
@@ -42,11 +46,14 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         }
 
-
         function setViewMode() {
-            toDoItem.innerHTML = "<span class='todo-item-text'></span>\
-            <button class='edit-button' type='button'>Edit</button>\
-            <button class='delete-button' type='button'>Delete</button>"
+            toDoItem.innerHTML = "<div class='row'>\
+                                    <div class='block-column'><div class='text'><li class='todo-item-text'></li></div></div>\
+                                     <div class='block-column'><div class='buttons'>\
+                                        <button class='edit-button' type='button'>Edit</button>\
+                                        <button class='delete-button' type='button'>Delete</button>\
+                                    </div></div>\
+                                 </div>"
 
             toDoItem.querySelector(".todo-item-text").textContent = newTodoText;
             toDoItem.querySelector(".delete-button").addEventListener("click", function () {
@@ -58,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         }
 
-        var toDoItem = document.createElement("li");
+        var toDoItem = document.createElement("div");
         toDoItem.classList.add("todo-item");
         setViewMode();
 

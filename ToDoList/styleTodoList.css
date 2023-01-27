@@ -1,0 +1,80 @@
+* {
+    font-family: SansSerif, sans-serif;
+}
+
+.form {
+    text-align: center;
+}
+
+.form > * {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.main {
+    max-width: 500px;
+    background-color: #ccc;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.caption {
+    text-align: center;
+    margin: 10px;
+}
+
+#todo-list{
+    height: 100%;
+    overflow: hidden;
+    min-height: 100%;
+    padding: 50px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-column {
+    min-width: 35%;
+}
+
+.buttons {
+    text-align: right;
+}
+
+.error-message {
+    color: #f00;
+    display: none;
+}
+
+.invalid {
+    border-color: #f00;
+}
+.invalid.error-message {
+    display: block;
+    text-align: left;
+}
+
+.invalid ~ .error-message {
+    display: block;
+}
+
+.todo-item-text {
+    text-align: left;
+    padding-right: 5px;
+}
+
+.text {
+    overflow: hidden;
+}
+
+.todo-item {
+   margin-top: 10px;
+}
+
+.edit-button, .delete-button, .save-button, .cancel-button{
+    width: 60px;
+    text-align: center;
+}

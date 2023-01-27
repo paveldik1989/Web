@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="ToDo list jQuery task has been added, not great CSS.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListJQuery/ToDoListJQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListJQuery/ToDoListJQuery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListJQuery/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListJQuery/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDoListJQuery/styleTodoList.css" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoListJQuery/styleTodoList.css" afterDir="false" />
+    <list default="true" id="1e5dfd33-4aab-4ec3-85ea-5a8120df0549" name="Changes" comment="ToDo list jQuery task has been added, Flex CSS.">
+      <change afterPath="$PROJECT_DIR$/ToDoList/ToDoListJQuery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoList/styleTodoList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList/ToDoList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +40,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web",
+    "last_opened_file_path": "C:/Users/dad1/IdeaProjects/Web/ToDoList",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dad1\IdeaProjects\Web\ToDoList" />
       <recent name="C:\Users\dad1\IdeaProjects\Web" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\ToDoListJQuery" />
-      <recent name="C:\Users\dad1\IdeaProjects\Web\ToDoList" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\Objects" />
       <recent name="C:\Users\dad1\IdeaProjects\Web\CssForm" />
     </key>
@@ -71,7 +72,7 @@
       <workItem from="1672824862984" duration="494000" />
       <workItem from="1672828785624" duration="92192000" />
       <workItem from="1674668963468" duration="769000" />
-      <workItem from="1674670741398" duration="40641000" />
+      <workItem from="1674670741398" duration="41048000" />
     </task>
     <task id="LOCAL-00001" summary="Html task has been added.">
       <created>1669746652084</created>
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674800177689</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ToDo list jQuery task has been added, Flex CSS.">
+      <created>1674845207193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674845207214</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +185,7 @@
     <MESSAGE value="Work with objects task has been added." />
     <MESSAGE value="To do list task has been added." />
     <MESSAGE value="ToDo list jQuery task has been added, not great CSS." />
-    <option name="LAST_COMMIT_MESSAGE" value="ToDo list jQuery task has been added, not great CSS." />
+    <MESSAGE value="ToDo list jQuery task has been added, Flex CSS." />
+    <option name="LAST_COMMIT_MESSAGE" value="ToDo list jQuery task has been added, Flex CSS." />
   </component>
 </project>
