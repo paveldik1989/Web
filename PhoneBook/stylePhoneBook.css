@@ -1,0 +1,141 @@
+* {
+    font-family: SansSerif, sans-serif;
+    color: #2F4F4F;
+    box-sizing: border-box;
+}
+
+.main {
+    max-width: 600px;
+    background-color: #FFFFE0;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.caption {
+    text-align: center;
+    margin: 10px;
+}
+
+.form {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+
+div > input {
+    border: 2px solid #2F4F4F;
+}
+
+.invalid {
+    border-color: #f00;
+}
+
+
+#add-button {
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+    width: 100px;
+    background-color: #D4D6FF;
+}
+
+#add-button:active {
+    background-color: #8B8DB3;
+}
+
+.block-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-item {
+    padding: 5px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.table, .number, .last-name, .first-name, .telephone-number, .delete {
+    word-break: break-all;
+    overflow: hidden;
+    border-collapse: collapse;
+    border: 2px solid #2F4F4F;
+}
+
+th {
+    background-color: #E1FFD4;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.table {
+    width: 100%;
+}
+
+.last-name, .first-name, .telephone-number {
+    padding-left: 10px;
+}
+
+.number {
+    width: 5%;
+    text-align: center;
+}
+
+.last-name {
+    width: 25%;
+}
+
+.first-name {
+    width: 25%;
+}
+
+.telephone-number {
+    width: 35%;
+}
+
+.delete {
+    width: 10%;
+    text-align: center;
+}
+
+.delete-button {
+    border-radius: 5px;
+    width: 24px;
+    text-align: center;
+    background-color: #D4D6FF;
+    padding: 1px 0;
+}
+
+.delete-button:active {
+    background-color: #8B8DB3;
+}
+
+.error-message {
+    color: #f00;
+    display: none;
+}
+
+
+.invalid ~ .error-message {
+    display: block;
+}
+
+/*.error-message {*/
+/*    color: #f00;*/
+/*    display: none;*/
+/*}*/
+
+/*.invalid {*/
+/*    border-color: #f00;*/
+/*}*/
+
+/*.invalid.error-message {*/
+/*    display: block;*/
+/*    text-align: left;*/
+/*}*/
+
+/*.invalid ~ .error-message {*/
+/*    display: block;*/
+/*}*/

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phone Book jQuery</title>
+
+    <link href="Normalize.css" rel="stylesheet">
+    <link href="stylePhoneBook.css" rel="stylesheet">
+
+    <script defer src="jquery-3.6.3.js"></script>
+    <script defer src="script.js"></script>
+</head>
+<body>
+<div class="main">
+    <h1 class="caption">Phone Book</h1>
+
+    <form id="form" class="form">
+        <div class="block">
+            <div class="block-row">
+                <div class="block-column">
+                    <div class="block-item">
+                        <label for="last-name">
+                            Last Name:
+                        </label>
+                    </div>
+                </div>
+                <div class="block-column">
+                    <div class="block-item">
+                        <input id="last-name" type="text">
+                        <div class="error-message">Field is required</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="block-row">
+                <div class="block-column">
+                    <div class="block-item">
+                        <label for="first-name">
+                            First Name:
+                        </label>
+                    </div>
+                </div>
+                <div class="block-column">
+                    <div class="block-item">
+                        <input id="first-name" type="text">
+                        <div class="error-message">Field is required</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="block">
+            <div class="block-row">
+                <div class="block-column">
+                    <div class="block-item">
+                        <label for="telephone-number">
+                            Telephone Number:
+                        </label>
+                    </div>
+                </div>
+                <div class="block-column">
+                    <div class="block-item">
+                        <input id="telephone-number" type="text">
+                        <div class="error-message">Field is required</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <button id="add-button" type="submit">Add</button>
+    </form>
+
+    <div>
+        <table class="table">
+            <thead>
+            <tr>
+                <th class='number'>#</th>
+                <th class='last-name'>Last Name</th>
+                <th class='first-name'>First Name</th>
+                <th class='telephone-number'>Telephone Number</th>
+                <th class='delete'>Delete</th>
+            </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>
